@@ -1,6 +1,6 @@
 ![Polars library logo](assets/PolarsLogo.jpg)
 
-# Data Analysis with Polars and Python
+# Data Analysis with Polars and Python change
 
 This repo contains the datasets and Jupyter Notebooks for the
 **Data Analysis with Polars and Python** course.
